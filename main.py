@@ -1,5 +1,4 @@
 import asyncio
-from io import BytesIO
 import discord
 import os
 import discord.ext
