@@ -2,7 +2,6 @@
 interesting loader that owl made
 
 ## installation guides
-i actually make them by myself owl didnt write this!!
 
 ### server side
 ```sh-session
