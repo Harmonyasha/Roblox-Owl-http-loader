@@ -22,6 +22,11 @@ naaah = ["/","\\",".","*","%",",","'",'"',":",";","`","?","!","#","@"]
 codesforscript = []
 prefix = "!"
 
+with open('config.json') as f:
+    data = json.load(f)
+
+discordbotytoken = data['token']
+
 def listToString(s):
     str1 = ""
     for ele in s:
@@ -432,4 +437,4 @@ th.start()
 
 
 
-client.run("token")
+client.run(discordbotytoken)
