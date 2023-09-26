@@ -1,3 +1,3 @@
 # Owl-http-loader
-pip install -r requirements.txt \n
+pip install -r requirements.txt 
 (not all requirements inside or all idk)
