@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ### client side
-download model [right here](https://github.com/Dev0xz02/owls-httpserver/raw/main/12420323144.rbxm)
+download model [right here](https://github.com/Dev0xz02/owls-httpserver/raw/roblox/main/12420323144.rbxm)
 open roblox studio, choose classic baseplate and move model that you just downloaded into roblox studio
 in roblox studio, open mainmodule which you just inserted and change "https://web.owluniversal.repl.co/" to ur http's server
 and then public the mainmodule to roblox, make "Distribute on Marketplace" to true and click "Submit".
