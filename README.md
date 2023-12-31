@@ -1,11 +1,12 @@
-# owl's http-based loader
-interesting loader that owl made
-
+## Video if you have troubles
+```
+https://youtu.be/-knOqCdWtKw
+```
 ## installation guides
 
 ### server side
 ```sh-session
-git clone https://github.com/Dev0xz02/owls-httpserver.git
+git clone https://github.com/OwlUniversal/owls-httpserver.git
 cd owls-httpserver
 pip install -r requirements.txt
 ```
@@ -19,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 ### client side
-download model [right here](https://github.com/Dev0xz02/owls-httpserver/raw/main/roblox/12420323144.rbxm)
+download model [right here](https://github.com/OwlUniversal/owls-httpserver/raw/main/roblox/12420323144.rbxm)
 open roblox studio, choose classic baseplate and move model that you just downloaded into roblox studio
 in roblox studio, open mainmodule which you just inserted and change "https://web.owluniversal.repl.co/" to ur http's server
 and then public the mainmodule to roblox, make "Distribute on Marketplace" to true and click "Submit".
